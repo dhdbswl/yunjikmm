@@ -1,3 +1,3 @@
 # yunjikmm
 
-[https://dhdbswl.github.io/yunjikmm/](git-portfolio-website)
+[git-portfolio-website](https://dhdbswl.github.io/yunjikmm/)
